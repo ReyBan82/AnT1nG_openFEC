@@ -47,9 +47,9 @@
     "style-loader": "^0.21.0",
     "terser-webpack-plugin": "^2.3.5",
     "url-loader": "^1.0.1",
-    "webpack": "^4.19.1",
+    "webpack": "^4.46.0",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^4.11.1"
   },
   "engines": {
     "node": "18.13.0",
